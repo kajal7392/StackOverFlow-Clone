@@ -1,0 +1,20 @@
+{
+  "short_name": "Dev Community",
+  "name": "My Dev Community",
+  "icons": [
+    {
+      "src": "my-icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "my-icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#1a73e8",
+  "background_color": "#ffffff"
+}
